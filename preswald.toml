@@ -1,0 +1,20 @@
+[project]
+title = "Video Game Sales Explorer"
+version = "1.0.0"
+port = 8501
+slug = "video-game-sales"
+entrypoint = "hello.py"  # Change this if your main Python file is named differently
+
+[branding]
+name = "🎮 Video Game Sales Explorer"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#F89613"
+
+[data.video_game_sales]
+type = "csv"
+path = "data/vgsales_90.csv"
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
