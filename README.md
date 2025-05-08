@@ -28,19 +28,13 @@ The **Video Game Sales Explorer** is an interactive application designed to help
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-game-sales-explorer.git
+   git clone https://github.com/Vinitv38/Preswald---Task.git
    ```
 2. Install required packages:
    ```bash
    pip install preswald pandas plotly
    ```
-3. Run the application:
+3. How to run at
    ```bash
-   python app.py
+   https://github.com/StructuredLabs/preswald
    ```
-
-## Contributing
-Feel free to submit issues or feature requests. Contributions are welcome via pull requests.
-
-## License
-This project is licensed under the MIT License.
